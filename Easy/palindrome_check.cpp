@@ -1,3 +1,7 @@
+// int this task you have to find if the number entered is palindrome or not after checking you 
+// have to sent back the boolean value of hte result
+
+
 class Solution {
 public:
     bool isPalindrome(int x) { 
