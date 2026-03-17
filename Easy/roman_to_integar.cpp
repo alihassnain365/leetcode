@@ -1,3 +1,6 @@
+// in this leetcode problem you are given a Roman numbers in the form of the string, 
+// you have to convert those Roman strings to the integar numbers and return
+
 class Solution {
 public:
     int romanToInt(string s) {
