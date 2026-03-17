@@ -1,3 +1,6 @@
+// in this leetcode problem you are given an array of strings, in which you 
+// have to check the longest common string in the array from all indexes
+
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
